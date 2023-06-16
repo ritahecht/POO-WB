@@ -1,6 +1,6 @@
 <h1>Conteúdo destinado ao Prof. Dr. Eng. Gerson Penha</h1>
 	
-<h2> 🚦 Guia </h2>
+<h2> 🚦 Atividade prática - WB </h2>
 
 <p>
 🔹 Trata-se de um conteúdo em nível de graduação tecnológica <br>
