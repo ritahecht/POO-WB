@@ -4,8 +4,10 @@
 
 <p>
 🔹 Trata-se de um conteúdo em nível de graduação tecnológica <br>
-🔹 Disciplina: Programação Orientada à Objetos <br>
 🔹 Todo o trabalho será desenvolvido ao longo do 3º semestre de 2023 <br>
+🔹 Disciplina: Programação Orientada à Objetos <br>
+🔹 Linguagem de programação: TypeScript <br>
+	
 </p>    
 
 <h2>
